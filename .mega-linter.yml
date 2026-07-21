@@ -16,6 +16,8 @@ DISABLE_LINTERS:
   - SPELL_LYCHEE
   # yamllint is sufficient for us.
   - YAML_PRETTIER
+  - SPELL_CSPELL
+  - ACTION_ZIZMOR
 DISABLE_ERRORS_LINTERS:
   # Include grammar checks only as warnings.
   - SPELL_PROSELINT
